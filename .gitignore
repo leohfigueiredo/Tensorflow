@@ -1,9 +1,9 @@
 # Ambientes Python e cache
-__pycache__/
+__pycache__\
 *.pyc
 *.pyo
 *.pyd
-.ipynb_checkpoints/
+.ipynb_checkpoints\
 
 # Dados e modelos grandes
 *.h5
@@ -18,9 +18,10 @@ __pycache__/
 *.pth
 
 # Pastas de treino/teste
-pizza_steak/train/
-pizza_steak/test/
-untitled_project/trial_*/
+pizza_steak/train\
+pizza_steak\test\
+untitled_project\trial_*\
 
 # Outros
-24.3.25/
+24.3.25\
+ml_env\
