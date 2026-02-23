@@ -32,3 +32,12 @@ ml_env/
 .env/
 ml_win/
 .ml_win/
+
+# Datasets grandes
+101_food_classes_10_percent/
+*/101_food_classes_10_percent/
+*_MACOSX/
+data/
+datasets/
+*/data/
+*/datasets/
