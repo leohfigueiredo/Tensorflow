@@ -106,3 +106,8 @@ logs/
 */*/*/*/*/*/*/*/logs/
 */*/*/*/*/*/*/*/*/logs/
 */*/*/  logs/
+
+# Arquivos de variáveis do TensorFlow
+*.data-00000-of-*
+*.data-*
+*.index
