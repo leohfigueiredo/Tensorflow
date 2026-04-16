@@ -129,4 +129,41 @@ To run these notebooks, you will need:
 
 ## 🔗 Related Resources
 
-This directory complements the more advanced materials in the `../Tensorflow-1/` directory, which contains organized courses on transfer learning, NLP, and milestone projects.
+### Files_and_notebooks/ Subdirectory
+
+This subdirectory contains organized course materials with more advanced topics:
+
+#### 00_fundamentals/
+- `00_Tensorflow_fundamentals.ipynb` - TensorFlow basics
+
+#### 01_neural_network_regression/
+- `01_neural_network_regression_with_tensorflow_video - Copy.ipynb` - Regression with neural networks
+
+#### 02_neural_network_classification/
+- `02_neural_network_classification_with_tensorflow.ipynb` - Classification with neural networks
+
+#### 03_Intro_to_computer_vision/
+- `03-Introduction-to-computer-vision-with-tensorflow.ipynb` - Computer vision introduction
+
+#### 04_transfer_learning/
+- `04-transfer-learning-in-tensorflow-part-1-feature-extraction.ipynb` - Transfer learning basics
+
+#### 05_transfer_learning_fine_tuning/
+- `05_transfer_learning_in_tensorflow_part_2_fine_tuning.ipynb` - Fine-tuning techniques
+
+#### 06_Transfer_learning_scaling_up/
+- `06_transfer_learning_in_tensorflow_part_3_scaling_up.ipynb` - Scaling up transfer learning
+
+#### 07_Project_1_Food_Vision_Big/
+- `Project_1_Food_Vision_Big.ipynb` - Complete food classification project
+
+#### 08_introduction_to_nlp_in_tensorflow/
+- `08_introduction_to_nlp_in_tensorflow.ipynb` - Natural Language Processing with TensorFlow
+
+### pizza_steak/ Subdirectory
+
+Contains data and resources for binary image classification (pizza vs steak).
+
+---
+
+**Note:** The project has been consolidated into this single `Tensorflow/` directory. The previous `Tensorflow-1/` folder has been removed to avoid duplication and save GitHub storage space.
